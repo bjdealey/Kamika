@@ -1,50 +1,94 @@
-# Welcome to your Expo app 👋
+# Kamika
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> _Track, value, and celebrate your Pokémon card collection — all in one app._  
+> _For collectors who value the joy of collecting as much as the cards themselves._
 
-## Get started
+**Kamika** is named from the Japanese words **"kami" (神 / 紙)** meaning _god_ or _paper_, and **"ka" (か)** meaning _essence_ or _change_. Together, _Kamika_ symbolises the **divine joy of collecting cards** — where every piece of glossy paper holds stories, nostalgia, and wonder.
 
-1. Install dependencies
+Built exclusively for **Pokémon TCG collectors**, Kamika is designed to help you enjoy your collection, your way. Whether you're tracking a few favourites, working toward a full Dex, or just love admiring your cards, Kamika makes it effortless to organise, value, and explore what you own — without pushing you to sell or trade unless _you_ want to.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## ✨ Why Kamika?
 
-   ```bash
-   npx expo start
-   ```
+Most collector apps are built for selling. **Kamika is built for collecting.**
 
-In the output, you'll find options to open the app in a
+From set completion tools to beautiful theming, Kamika is designed to be simple, lovable, and complete. And with our unique **Collector Mode**, you can hide all features related to trading or selling — keeping the focus entirely on the joy of owning and building your Pokémon collection.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🧠 Smart Tools for Serious Collectors
 
-## Get a fresh project
+- **🔍 Smart Search** – Find cards by name or set instantly with intuitive search.
+- **📈 Live Price Tracking** – See current market value for your cards, powered by real-time sales data — even if you never plan to sell.
+- **🎯 Dex Completion Tracker** – Track your progress across sets and generations with built-in completion stats.
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## 💼 Collection Management Made Magical
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- **🗂 Organise Your Collection** – Track raw, graded, or sealed cards using custom folders.
+- **📝 Add Cards Manually** – Quickly log cards with details like condition and quantity.
+- **🌐 Multi-Currency Support** – View your collection’s value in your preferred currency — from GBP to USD to ETH.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🎨 Built for Pokémon Fans
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- **🌈 Theme Customisation** – Choose from light or dark mode to match your vibe.
+- **📚 Set-Based Browsing** – Explore and admire your collection by set, type, or generation — just like a Pokédex.
+- **💖 Collector Mode** – Hide market tools and focus entirely on collecting, completion, and the joy of your collection.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 💬 Community & Support
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **📣 Kamika Discord** – Connect with other collectors, share pulls, and request features.
+- **🔧 Active Dev Team** – We build with our community and evolve based on your feedback.
+
+---
+
+## 🪙 Unlock Kamika+ (Coming Soon)
+
+Kamika+ will offer optional upgrades in future versions:
+
+- Unlimited card scanning
+- Advanced filters and collection analytics
+- PDF exports and backups
+- Premium visual themes
+
+---
+
+## 🧭 Planned Features
+
+Coming soon as Kamika evolves:
+
+- 📷 Instant Card Scanning
+- 💎 AI Grading Guide
+- 📊 Historical Charts
+- 🚨 Wishlist Alerts & Notifications
+- 🧾 PDF Exports & Convention Receipts
+- 🔍 Advanced Search Filters (by rarity, type, illustrator)
+- 🛒 In-App Marketplace (fully optional & hideable)
+- 📡 Trade Radar & Local Matches
+- 🧠 Deck Builder
+- 📌 Personalised Dashboard & Widgets
+- 👥 Friends & Social Trading
+- 🕵️ Rarity & Price Trend Insights
+- 📍 Nearby Events & Meetups
+- 📚 Visual Pokédex View
+- 🎖️ Badge Missions & Collector Achievements
+
+---
+
+## 📌 Info & Links
+
+- [Terms & Conditions](https://yourdomain.com/terms)
+- [Privacy Policy](https://yourdomain.com/privacy)
+- Email: [support@kamika.app](mailto:support@kamika.app)
+- Instagram: [@kamika.app](https://instagram.com/kamika.app)
+- Discord: Link in our bio
+
+---
+
+Download **Kamika** today and enjoy the Pokémon card collecting experience you've always wanted — collector-first, joyful, and beautifully complete.
